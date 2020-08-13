@@ -710,14 +710,10 @@ iframe.lazy-placeholder,
 section.lazy-placeholder:after {
   opacity: 0.3;
 }
-.cid-s7xRJj1sCe {
-  padding-top: 0px;
-  padding-bottom: 60px;
+.cid-s7xW1IM85a {
+  padding-top: 30px;
+  padding-bottom: 30px;
   background-color: #f13737;
-}
-.cid-s7xRJj1sCe .mbr-text,
-.cid-s7xRJj1sCe blockquote {
-  color: #767676;
 }
 .cid-s7x92KGtFB .modal-body .close {
   background: #1b1b1b;

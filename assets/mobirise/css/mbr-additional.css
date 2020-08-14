@@ -1359,7 +1359,7 @@ section.lazy-placeholder:after {
 }
 .cid-s7xaGRwIl1 {
   padding-top: 90px;
-  padding-bottom: 90px;
+  padding-bottom: 45px;
   background-color: #ffffff;
 }
 .cid-s7xaGRwIl1 h2 {
@@ -1504,6 +1504,9 @@ section.lazy-placeholder:after {
 .cid-s7xaVmqRpi .mbr-section-title {
   color: #ff0000;
   text-align: center;
+}
+.cid-s7xaVmqRpi .count {
+  color: #ff1900;
 }
 .cid-s7xbq1tuHt {
   padding-top: 90px;
@@ -1908,7 +1911,7 @@ section.lazy-placeholder:after {
 }
 .cid-s7xdoBZeKt {
   padding-top: 30px;
-  padding-bottom: 30px;
+  padding-bottom: 0px;
   background-color: #230003;
 }
 @media (max-width: 767px) {
@@ -1973,4 +1976,10 @@ section.lazy-placeholder:after {
     -webkit-justify-content: center;
     justify-content: center;
   }
+}
+.cid-s7xdoBZeKt P {
+  color: #efefef;
+}
+.cid-s7xdoBZeKt H5 {
+  color: #ffffff;
 }

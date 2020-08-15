@@ -1130,7 +1130,7 @@
           "_global": false,
           "_once": false,
           "_params": {
-            "text_all": "Tấc Cả",
+            "text_all": "Tất Cả",
             "gallery__filtersTextStyle": "display-7",
             "gallery__filtersBtnStyle": "btn-primary-outline",
             "gallery": [
@@ -1561,10 +1561,10 @@
                 "title": "",
                 "customStyle1": "display-7",
                 "caption": "Type caption here",
-                "active": true
+                "active": false
               },
               {
-                "tags": "Bảng Hiệu Mika",
+                "tags": "Quảng Cáo Ngoài Trời",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
@@ -1574,7 +1574,7 @@
                 "title": "",
                 "customStyle1": "display-7",
                 "caption": "Type caption here",
-                "active": false
+                "active": true
               },
               {
                 "tags": "Bảng Hiệu Mika",

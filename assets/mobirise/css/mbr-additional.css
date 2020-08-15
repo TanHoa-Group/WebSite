@@ -1511,45 +1511,45 @@ section.lazy-placeholder:after {
 .cid-s7xaVmqRpi H4 {
   color: #1b8c01;
 }
-.cid-s7xbq1tuHt {
-  padding-top: 15px;
+.cid-s7KXt0msgs {
+  padding-top: 90px;
   padding-bottom: 90px;
   background-color: #ffffff;
 }
-.cid-s7xbq1tuHt .mbr-slider .carousel-control {
+.cid-s7KXt0msgs .mbr-slider .carousel-control {
   background: #1b1b1b;
 }
-.cid-s7xbq1tuHt .mbr-slider .carousel-control-prev {
+.cid-s7KXt0msgs .mbr-slider .carousel-control-prev {
   left: 0;
   margin-left: 2.5rem;
 }
-.cid-s7xbq1tuHt .mbr-slider .carousel-control-next {
+.cid-s7KXt0msgs .mbr-slider .carousel-control-next {
   right: 0;
   margin-right: 2.5rem;
 }
-.cid-s7xbq1tuHt .mbr-slider .modal-body .close {
+.cid-s7KXt0msgs .mbr-slider .modal-body .close {
   background: #1b1b1b;
 }
-.cid-s7xbq1tuHt .mbr-gallery-item > div::before {
+.cid-s7KXt0msgs .mbr-gallery-item > div::before {
   content: '';
   position: absolute;
   left: 0;
   top: 0;
   width: 100%;
   height: 100%;
-  background: #277c00;
+  background: #554346;
   opacity: 0;
   -webkit-transition: 0.2s opacity ease-in-out;
   transition: 0.2s opacity ease-in-out;
-  background: linear-gradient(to left, #277c00, #f9f295) !important;
+  background: linear-gradient(to left, #554346, #45505b) !important;
 }
-.cid-s7xbq1tuHt .mbr-gallery-item > div:hover .mbr-gallery-title::before {
+.cid-s7KXt0msgs .mbr-gallery-item > div:hover .mbr-gallery-title::before {
   background: transparent !important;
 }
-.cid-s7xbq1tuHt .mbr-gallery-item > div:hover:before {
+.cid-s7KXt0msgs .mbr-gallery-item > div:hover:before {
   opacity: 0.7 !important;
 }
-.cid-s7xbq1tuHt .mbr-gallery-title {
+.cid-s7KXt0msgs .mbr-gallery-title {
   font-size: .9em;
   position: absolute;
   display: block;
@@ -1559,7 +1559,7 @@ section.lazy-placeholder:after {
   color: #fff;
   z-index: 2;
 }
-.cid-s7xbq1tuHt .mbr-gallery-title:before {
+.cid-s7KXt0msgs .mbr-gallery-title:before {
   content: " ";
   width: 100%;
   height: 100%;
@@ -1567,11 +1567,11 @@ section.lazy-placeholder:after {
   left: 0;
   z-index: -1;
   position: absolute;
-  background: #277c00 !important;
+  background: #554346 !important;
   opacity: 0.7;
   -webkit-transition: 0.2s background ease-in-out;
   transition: 0.2s background ease-in-out;
-  background: linear-gradient(to left, #277c00, #f9f295) !important;
+  background: linear-gradient(to left, #554346, #45505b) !important;
 }
 .cid-s7xc31JHf3 {
   padding-top: 90px;

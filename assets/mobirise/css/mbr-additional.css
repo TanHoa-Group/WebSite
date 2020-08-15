@@ -1452,7 +1452,7 @@ section.lazy-placeholder:after {
   text-align: center;
 }
 .cid-s7xaVmqRpi .mbr-content-text {
-  color: #767676;
+  color: #9f2406;
 }
 .cid-s7xaVmqRpi .card {
   word-wrap: break-word;
@@ -1508,8 +1508,11 @@ section.lazy-placeholder:after {
 .cid-s7xaVmqRpi .count {
   color: #ff1900;
 }
+.cid-s7xaVmqRpi H4 {
+  color: #1b8c01;
+}
 .cid-s7xbq1tuHt {
-  padding-top: 90px;
+  padding-top: 30px;
   padding-bottom: 90px;
   background-color: #ffffff;
 }
@@ -1534,11 +1537,11 @@ section.lazy-placeholder:after {
   top: 0;
   width: 100%;
   height: 100%;
-  background: #554346;
+  background: #277c00;
   opacity: 0;
   -webkit-transition: 0.2s opacity ease-in-out;
   transition: 0.2s opacity ease-in-out;
-  background: linear-gradient(to left, #554346, #45505b) !important;
+  background: linear-gradient(to left, #277c00, #f9f295) !important;
 }
 .cid-s7xbq1tuHt .mbr-gallery-item > div:hover .mbr-gallery-title::before {
   background: transparent !important;
@@ -1564,11 +1567,11 @@ section.lazy-placeholder:after {
   left: 0;
   z-index: -1;
   position: absolute;
-  background: #554346 !important;
+  background: #277c00 !important;
   opacity: 0.7;
   -webkit-transition: 0.2s background ease-in-out;
   transition: 0.2s background ease-in-out;
-  background: linear-gradient(to left, #554346, #45505b) !important;
+  background: linear-gradient(to left, #277c00, #f9f295) !important;
 }
 .cid-s7xc31JHf3 {
   padding-top: 90px;

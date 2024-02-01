@@ -1866,6 +1866,9 @@ section.lazy-placeholder:after {
     text-align: center;
   }
 }
+.cid-s8nEpgfZuT .footer-lower .THG-Copyright {
+  visibility: visible !important;
+}
 .cid-s8nEpgfZuT .footer-lower hr {
   margin: 1rem 0;
   border-color: #fff;
@@ -1887,9 +1890,6 @@ section.lazy-placeholder:after {
 }
 .cid-s8nEpgfZuT .footer-lower .social-list .soc-item {
   margin: 0 .5rem;
-}
-.cid-s8nEpgfZuT .footer-lower .social-list .THG-Copyright {
-  visibility: visible !important;
 }
 .cid-s8nEpgfZuT .footer-lower .social-list a {
   margin: 0;

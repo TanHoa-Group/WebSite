@@ -1693,6 +1693,9 @@
                   "text-align": "center"
                 }
               },
+              ".THG-Copyright": {
+                "visibility": "visible !important"
+              },
               "hr": {
                 "margin": "1rem 0",
                 "border-color": "#fff",
@@ -1713,9 +1716,6 @@
                 },
                 ".soc-item": {
                   "margin": "0 .5rem"
-                },
-                ".THG-Copyright": {
-                  "visibility": "visible !important"
                 },
                 "a": {
                   "margin": "0",

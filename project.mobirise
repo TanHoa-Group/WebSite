@@ -856,7 +856,7 @@
             "slides": [
               {
                 "image": "@PROJECT_PATH@/assets/images/slide0-1920x1280.jpg",
-                "active": true,
+                "active": false,
                 "showButtons": false,
                 "showText": true,
                 "showTitle": true,
@@ -894,7 +894,7 @@
               },
               {
                 "image": "@THEME_PATH@/components/_images/background3.jpg",
-                "active": false,
+                "active": true,
                 "showButtons": false,
                 "showText": false,
                 "showTitle": false,

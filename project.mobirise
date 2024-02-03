@@ -74,7 +74,7 @@
     "siteUrl": false,
     "cookiesAlert": false,
     "gdpr": false,
-    "uniqCompNum": 23,
+    "uniqCompNum": 24,
     "versionPublish": "5.9.13",
     "screenshot": "screenshot.png",
     "witsec-mailform-to": "Labs@EZtech.OOO",
@@ -852,7 +852,7 @@
           "_params": {
             "slides__autoplay": "true",
             "slides__autoplayInterval": "8000",
-            "slides__showBullets": true,
+            "slides__showBullets": false,
             "slides": [
               {
                 "image": "@PROJECT_PATH@/assets/images/slide0-1920x1280.jpg",
@@ -893,12 +893,12 @@
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR MAC</a>"
               },
               {
-                "image": "@THEME_PATH@/components/_images/background3.jpg",
+                "image": "@PROJECT_PATH@/assets/images/mbr-1920x1280.jpg",
                 "active": true,
                 "showButtons": false,
                 "showText": false,
                 "showTitle": false,
-                "playVideo": true,
+                "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=dY2dmMtACMI",
                 "customStyle1": "display-1",
                 "customStyle2": "display-5",
@@ -1241,7 +1241,7 @@
                 "title": "Bảng Hiệu Led Hoàng Anh",
                 "customStyle1": "display-7",
                 "caption": "Type caption here",
-                "active": false
+                "active": true
               },
               {
                 "tags": "Bảng Hiệu Led",
@@ -1358,7 +1358,7 @@
                 "title": "Sự Kiện & Triển Lãm",
                 "customStyle1": "display-7",
                 "caption": "Type caption here",
-                "active": true
+                "active": false
               }
             ]
           }

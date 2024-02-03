@@ -1083,6 +1083,32 @@ section.lazy-placeholder:after {
   padding-bottom: 30px;
   background-color: #f13737;
 }
+.cid-u3dMYHQW28 {
+  padding-top: 25px;
+  padding-bottom: 0px;
+  background: linear-gradient(0deg, #ff0000, #232323);
+}
+.cid-u3dMYHQW28 .news {
+  width: 100px;
+  background-color: #ff1900;
+}
+.cid-u3dMYHQW28 .news-scroll a {
+  text-decoration: none;
+}
+.cid-u3dMYHQW28 .dot {
+  height: 6px;
+  width: 6px;
+  margin-left: 3px;
+  margin-right: 3px;
+  margin-top: 2px !important;
+  background-color: #ff5c00;
+  border-radius: 50%;
+  display: inline-block;
+}
+.cid-u3dMYHQW28 DIV {
+  color: #ffffff;
+  font-family: Signika;
+}
 .cid-s7x92KGtFB .modal-body .close {
   background: #1b1b1b;
 }

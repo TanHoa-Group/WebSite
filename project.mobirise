@@ -69,9 +69,9 @@
     "favicon": "@PROJECT_PATH@/assets/images/00.ico",
     "imageResize": true,
     "robotsSwitcher": false,
-    "sitemapSwitcher": false,
-    "sitemapSwitcherAuto": false,
-    "siteUrl": false,
+    "sitemapSwitcher": true,
+    "sitemapSwitcherAuto": "on",
+    "siteUrl": "https://www.tanhoa.group",
     "cookiesAlert": false,
     "gdpr": false,
     "uniqCompNum": 24,
@@ -94,14 +94,17 @@
     "witsec-mailform-recaptcha-secretkey": "",
     "witsec-mailform-recaptcha-score": "0.5",
     "witsec-mailform-disable-button": false,
-    "mbrsiteDomain": "gsbemqdvgm",
+    "mbrsiteDomain": "azb8doruda",
     "witsec-white-label": true,
     "witsec-mailform": true,
     "google-analytics": "<!-- Global site tag (gtag.js) - Google Analytics -->\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-176128223-1\"></script>\n<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n\n  gtag('config', 'UA-176128223-1');\n</script>",
-    "usedWebp": false,
+    "usedWebp": true,
     "witsec-search": false,
     "global_header_custom": "<!--Start of FancyBox | CSS-->\n<link rel=\"stylesheet\" type=\"text/css\" href=\"https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.5.7/jquery.fancybox.min.css\">\n<!--End of FancyBox | CSS-->",
-    "global_footer_custom": "<!--Start of FancyBox | JS-->\n<script src=\"https://code.jquery.com/jquery-3.6.4.min.js\"></script>\n<script src=\"https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.5.7/jquery.fancybox.min.js\"></script>\n<!--End of FancyBox | JS-->"
+    "global_footer_custom": "<!--Start of FancyBox | JS-->\n<script src=\"https://code.jquery.com/jquery-3.6.4.min.js\"></script>\n<script src=\"https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.5.7/jquery.fancybox.min.js\"></script>\n<!--End of FancyBox | JS-->",
+    "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
+    "witsec-search-excluded-sections": "",
+    "witsec-search-excluded-pages": "404.html"
   },
   "pages": {
     "index.html": {
@@ -852,7 +855,7 @@
           "_params": {
             "slides__autoplay": "true",
             "slides__autoplayInterval": "8000",
-            "slides__showBullets": false,
+            "slides__showBullets": true,
             "slides": [
               {
                 "image": "@PROJECT_PATH@/assets/images/slide0-1920x1280.jpg",
@@ -1200,7 +1203,7 @@
           "_global": false,
           "_once": false,
           "_params": {
-            "text_all": "Tất Cả",
+            "text_all": "Công Trình",
             "gallery__filtersTextStyle": "display-7",
             "gallery__filtersBtnStyle": "btn-primary-outline",
             "gallery": [
